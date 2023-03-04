@@ -1,0 +1,15 @@
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\obj\Debug\net6.0\Task52.csproj.AssemblyReference.cache
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\obj\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\obj\Debug\net6.0\Task52.AssemblyInfoInputs.cache
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\obj\Debug\net6.0\Task52.AssemblyInfo.cs
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\obj\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\bin\Debug\net6.0\Task52.exe
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\bin\Debug\net6.0\Task52.deps.json
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\bin\Debug\net6.0\Task52.runtimeconfig.json
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\bin\Debug\net6.0\Task52.dll
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\bin\Debug\net6.0\Task52.pdb
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\obj\Debug\net6.0\Task52.dll
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\obj\Debug\net6.0\refint\Task52.dll
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\obj\Debug\net6.0\Task52.pdb
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\obj\Debug\net6.0\Task52.genruntimeconfig.cache
+E:\GeekBrains\1. Четверть\3. Знакомство с языками программирования\Seminar001\DZ_Seminar7\Task52\obj\Debug\net6.0\ref\Task52.dll
